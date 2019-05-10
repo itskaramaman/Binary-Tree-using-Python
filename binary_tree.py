@@ -49,10 +49,10 @@ print(tree.preTraversal(tree.root,""))
 print(tree.inTraversal(tree.root,""))
 print(tree.postTraversal(tree.root,""))
 
-#          A
-#		  / \
-#        B   C
-#		/	 /\
-#	   D    X  Z
+#          	 A
+#		/ \
+#              B   C
+#	      /	   /\
+#	     D    X  Z
 #
 #
